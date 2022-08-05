@@ -1,5 +1,5 @@
 [submodule "themes/loveit"]
-	path = themes/loveit
+	path = themes/LoveIt
 	url = git@github.com:dillonzq/LoveIt.git
 [submodule "themes/docsy"]
 	path = themes/docsy
