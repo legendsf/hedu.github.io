@@ -1,5 +1,6 @@
-#baseURL = "https://legendsf.github.io/hedu.github.io"
-baseURL = "https://legendsf.github.io"
+baseURL = "https://legendsf.github.io/hedu.github.io/"
+#baseURL = "https://legendsf.github.io/"
+#baseURL = "https://legendsf.github.io/"
 
 # theme
 # 主题
