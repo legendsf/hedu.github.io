@@ -45,7 +45,8 @@ jobs:
         uses: actions/configure-pages@v1
       - name: Echo baseURL
         run: |
-          echo "baseURL: ${{ steps.pages.outputs.base_url }}"
+          #echo "baseURL: ${{ steps.pages.outputs.base_url }}"
+          echo "hello world"
       - name: Build with Hugo
         run: |
           hugo \
