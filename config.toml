@@ -1,7 +1,7 @@
 #baseURL = "https://legendsf.github.io/hedu.github.io/"
 #baseURL = "https://legendsf.github.io/"
 baseURL = "https://hedu.github.io/"
-relativeurls = true
+relativeurls = false
 
 # theme
 # 主题
