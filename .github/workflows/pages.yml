@@ -32,7 +32,7 @@ jobs:
     env:
       HUGO_VERSION: 0.101.0
     steps:
-      - name: echo hello world
+      - name: echo Hello World
         run: echo Hello World!
       - name: Install Hugo CLI
         run: |
@@ -45,8 +45,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v1
-      - name: Echo baseURL
-        run: echo "baseURL: ${{ steps.pages.outputs.base_url }}"
       - name: Build with Hugo
         run: |
           hugo \
